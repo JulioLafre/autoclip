@@ -1,0 +1,7 @@
+{
+  "profiles": [
+    {"platform": "youtube", "username": "RockstarGames", "days": 30, "limit": 5},
+    {"platform": "tiktok", "username": "rockstargames", "days": 7, "limit": 10},
+    {"platform": "instagram", "username": "rockstargames", "days": 14, "limit": 5}
+  ]
+}

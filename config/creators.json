@@ -1,0 +1,29 @@
+{
+  "enabled": true,
+  "automatic_downloads": true,
+  "interval": {"value": 1, "unit": "hours"},
+  "run_on_startup": true,
+  "profiles": [
+    {
+      "enabled": true,
+      "platform": "youtube",
+      "username": "ut_animations1",
+      "days": 7,
+      "limit": 5
+    },
+    {
+      "enabled": true,
+      "platform": "youtube",
+      "username": "GTASeriesVideos",
+      "days": 7,
+      "limit": 5
+    },
+    {
+      "enabled": true,
+      "platform": "youtube",
+      "username": "gelnox",
+      "days": 7,
+      "limit": 5
+    }
+  ]
+}

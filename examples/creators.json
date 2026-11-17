@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "automatic_downloads": true,
+  "interval": {"value": 30, "unit": "minutes"},
+  "run_on_startup": true,
+  "profiles": [
+    {"enabled": true, "platform": "youtube", "username": "ut_animations1", "days": 7, "limit": 5},
+    {"enabled": false, "platform": "tiktok", "username": "SEU_CRIADOR", "days": 7, "limit": 5},
+    {"enabled": false, "platform": "instagram", "username": "SEU_CRIADOR", "days": 7, "limit": 5}
+  ]
+}

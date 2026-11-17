@@ -1,0 +1,13 @@
+{
+  "versao": 2,
+  "trecho": {"duracao_segundos": 6},
+  "audio": {
+    "acao": "dublar_pt_br",
+    "dublagem": {
+      "segmentos": [
+        {"inicio_segundos": 0.5, "fim_segundos": 3, "texto_pt_br": "Essa fuga deu errado."},
+        {"inicio_segundos": 3.5, "fim_segundos": 5.5, "texto_pt_br": "Agora é correr!"}
+      ]
+    }
+  }
+}
